@@ -1,4 +1,4 @@
-# webpack
+# Get Started
 
 - npm run build 
   this comand is created folder ./dist, in this directory contains files html, css, js and more.
